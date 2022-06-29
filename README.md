@@ -2,9 +2,6 @@
 
 <h1 align="center">Remote Job Portal</h1>
 
-<div align="center">
-     Challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
-</div>
 
 <div align="center">
   <h3>
