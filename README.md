@@ -3,7 +3,7 @@
 <h1 align="center">Remote Job Portal</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+     Challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 </div>
 
 <div align="center">
@@ -70,7 +70,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/yunusa-sanusi/remote-job-portal.git
+$ git clone https://github.com/rithikrz/Github-RemoteJobApp.git
 
 # Install dependencies
 $ npm install
@@ -89,5 +89,5 @@ $ npm start
 
 ## Contact
 
-- GitHub [@yunusa-sanusi](https://github.com/yunusa-sanusi)
-- Linkedin [@Sanusi Yunusa](https://linkedin.com/in/sanusi-yunusa)
+- GitHub [@rithikrz](https://github.com/rithikrz)
+- Linkedin [@rithikrz](https://www.linkedin.com/in/rithik-ranjan-8b336519a/)
